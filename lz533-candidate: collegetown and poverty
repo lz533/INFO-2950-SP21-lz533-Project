@@ -1,0 +1,12 @@
+Question: do universities/colleges impoverish their local communities?
+
+Context: 
+  While concentrating faculties, wealthy students, and funding, colleges mostly offer the local population unskilled, low-wage, seasonal jobs that are rather insecure. 
+  this is the case for Ithaca. With 2 higher education institutions, Ithaca has significantly lower median wage, higher poverty rate, and higher degree of food insecurity than the New York state average.
+I aim to explore if there is a causal relation between the presence of colleges and occurence of poverty, whose indicators are discussed below.
+Data: 
+  conceptually, 'collegetowns' are zip codes that contain at least one 4-year college. 
+  Indices of poverty may include median income, poverty rate, unemployment rate, homelessness per 100,000 residents. %Food insecure within the population. Expected lifespan at birth?
+  Data from "collegetown" zip codes would be compared to state average,
+  I expected the required data to be readily available from national and state governmental resources.
+  #How many years of data would be appropriate?
