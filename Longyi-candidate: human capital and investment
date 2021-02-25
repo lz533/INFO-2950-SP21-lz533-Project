@@ -5,7 +5,7 @@ Data:
   expect World Bank and IMF database. the Human Capital Index(HCI) would be useful.
   for education: PISA test scores, among others.
   note that the effect of (primary and secondary) education on the labor force is delayed. expect at least a 10-year interval.
-RQ:
+Question for reviewers
   the human capital data would be incomplete for many developing economies, what to do about the NaNs?
   methodology for rating educational performances and data compilation may vary across countries (e.g. only contains data from developed regions, partnering with local institutions to carry out tests). 
   what would it imply for data validity? would they compare?
