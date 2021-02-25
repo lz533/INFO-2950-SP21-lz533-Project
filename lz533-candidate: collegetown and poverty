@@ -8,5 +8,6 @@ Data:
   conceptually, 'collegetowns' are zip codes that contain at least one 4-year college. 
   Indices of poverty may include median income, poverty rate, unemployment rate, homelessness per 100,000 residents. %Food insecure within the population. Expected lifespan at birth?
   Data from "collegetown" zip codes would be compared to state average,
-  I expected the required data to be readily available from national and state governmental resources.
+  possible direction: comppare the changes in income/poverty rate/gdp in zip codes within a certain time interval to examine whether collegetowns are growing at a slower rate than state avg.
+  I expect the required data to be readily available from national and state governmental resources.
   #How many years of data would be appropriate?
