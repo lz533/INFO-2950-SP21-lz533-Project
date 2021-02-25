@@ -1,0 +1,9 @@
+Question: Why did day traders on r/wallstreetbets pick certain stocks to squeeze, compared to others?
+  What would they pick (if ever) in the future? How could their disruption be mitigated?  
+Data: 
+  identify certain stocks as "WSB portfolio stocks", compare the company profile, industry, historical performance, recent financial situation to other stocks* (S&P 500 stocks, or comparable stocks from the same industries?).
+  the effect is the "attention" to individual stocks from Reddit", measured by frequency of mentions and posts on r/wallstreetbets and/or other financial Subreddits from 7/1/2020, and their stock performance compared to S&P 500 since 1/1/2021
+  sub-question: why do performance differ within the WSB portfolio?
+RQ: 
+  for company/stock performance, how far should I trace back to?
+  
