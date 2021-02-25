@@ -5,6 +5,7 @@ Context:
   this is the case for Ithaca. With 2 higher education institutions, Ithaca has significantly lower median wage, higher poverty rate, and higher degree of food insecurity than the New York state average.
 I aim to explore if there is a causal relation between the presence of colleges and occurence of poverty, whose indicators are discussed below.
 Data: 
+
   conceptually, 'collegetowns' are zip codes that contain at least one 4-year college. 
   Indices of poverty may include median income, poverty rate, unemployment rate, homelessness per 100,000 residents. %Food insecure within the population. Expected lifespan at birth?
   Data from "collegetown" zip codes would be compared to state average,
